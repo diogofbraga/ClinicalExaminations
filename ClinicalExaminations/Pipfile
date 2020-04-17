@@ -15,6 +15,7 @@ scikit-learn = "*"
 keras = "*"
 stats = "*"
 sklearn = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
